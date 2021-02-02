@@ -1,0 +1,1 @@
+{"version":3,"file":"resourceState.model.js","sourceRoot":"","sources":["../../src/models/resourceState.model.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,EAAE,MAAM,8BAA8B,CAAA;AAErD,MAAM,OAAO,aAAa;IACtB,IAAI,GAAG,IAAI,GAAG,EAAa,CAAA;IAC3B,IAAI,GAAG,IAAI,GAAG,EAAU,CAAA;IACxB,QAAQ,GAAW,IAAI,CAAA;IACvB,MAAM,GAAW,MAAM,CAAC,IAAI,CAAA;CAC/B"}
