@@ -4,11 +4,14 @@ module.exports = {
     node: true
   },
   plugins: [
+      '@typescript-eslint/eslint-plugin',
       'sort-class-members',
       'simple-import-sort'
   ],
   extends: [
-    "eslint:recommended",
+    'plugin:@typescript-eslint/recommended',
+    'prettier/@typescript-eslint',
+    'plugin:prettier/recommended',
   ],
   rules: {
     "no-console": process.env.NODE_ENV === "production" ? "warn" : "off",
